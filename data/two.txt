@@ -1,0 +1,4 @@
+ls
+cp
+mkdir
+touch
